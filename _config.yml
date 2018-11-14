@@ -13,7 +13,7 @@ customize:
         url: images/logo-header.png
     theme_color: '#006bde'
     highlight: androidstudio
-    sidebar: left # sidebar position, options: left, right
+    sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
@@ -83,7 +83,7 @@ share: default # options: jiathis, bdshare, addtoany, default
 plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
-    google_analytics: # enter the tracking ID for your Google Analytics
+    google_analytics: UA-11575835-8 # enter the tracking ID for your Google Analytics
     baidu_analytics: # enter Baidu Analytics hash key
     bing_site_verification: # enter Bing verification key here
     statcounter:
